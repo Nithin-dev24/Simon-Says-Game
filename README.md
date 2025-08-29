@@ -19,11 +19,11 @@ A fun Simon Says Game built using HTML, CSS, and JavaScript. The goal of the gam
 
 # Installation & Usage
 
-1. Clone the repository:
-
+1. Clone the repository using following command in the terminal:
+   bash:
    git clone https://github.com/Nithin-dev24/Simon-Says-Game.git
    
-2. Open the index.html file in your browser.
+3. Open the index.html file in your browser.
 
 # Future Improvements
 
